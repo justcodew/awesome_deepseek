@@ -13,14 +13,12 @@
  * 
 
 ## code
-    * [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-
-
+* git
+    * [Deepseek v3](https://github.com/deepseek-ai/DeepSeek-V3)
 
 ## paper
-
+* git
     * [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf)
-
 
 * 知乎
     * [Deepseek v3 技术报告万字硬核解读](https://zhuanlan.zhihu.com/p/16323685381)

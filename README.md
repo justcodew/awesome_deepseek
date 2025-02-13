@@ -24,7 +24,9 @@
     * [Deepseek v3 技术报告万字硬核解读](https://zhuanlan.zhihu.com/p/16323685381)
 
 
-
+## 新闻
+* 接入
+*  [万物皆可接入DeepSeek，44家接入R1的国产平台超详细大盘点](https://datakhazix.feishu.cn/wiki/TUWtwM8jIib6MGk63wQcGj7RnBh)
 
 
 
